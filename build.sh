@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build "$@" -t bmichalski/squid .
+docker build "$@" -t bmichalski/squid-deb-proxy .

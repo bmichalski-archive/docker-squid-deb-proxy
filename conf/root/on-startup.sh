@@ -1,3 +1,3 @@
 #!/bin/bash
 
-squid3 start
+service squid-deb-proxy start
