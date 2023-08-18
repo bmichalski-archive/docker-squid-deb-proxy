@@ -15,4 +15,3 @@ then
   docker kill squid-deb-proxy
   docker rm squid-deb-proxy
 fi
-
